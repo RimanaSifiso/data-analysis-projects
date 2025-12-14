@@ -1,0 +1,11 @@
+SaleID,VehicleID,DealershipID,SaleDate,SaleAmount,Make,Model,Year,CostAmount,StockDate,SaleYear,SaleMonth,SaleWeekNumber,SaleDayOfWeek,SaleDay,SaleWeekDayName,DealershipName,Region
+S001,V001,D001,2025-02-20,195000,Toyota,Corolla,2021,175000,2025-01-05,2025,2,8,3,20,Thursday,AutoSmart Johannesburg,Gauteng
+S002,V002,D001,2025-02-21,370000,Toyota,Hilux,2022,350000,2025-01-07,2025,2,8,4,21,Friday,AutoSmart Johannesburg,Gauteng
+S003,V003,D003,2025-02-22,180000,Volkswagen,Polo,2021,165000,2025-01-10,2025,2,8,5,22,Saturday,AutoSmart Cape Town,Western Cape
+S004,V004,D004,2025-02-25,435000,Ford,Ranger,2023,420000,2025-01-15,2025,2,9,1,25,Tuesday,AutoSmart Durban,KZN
+S005,V005,D002,2025-02-28,360000,BMW,320i,2020,380000,2025-01-20,2025,2,9,4,28,Friday,AutoSmart Pretoria,Gauteng
+S006,V006,D001,2025-03-05,415000,Mercedes,A200,2021,410000,2025-02-01,2025,3,10,2,5,Wednesday,AutoSmart Johannesburg,Gauteng
+S007,V007,D004,2025-03-10,145000,Hyundai,i20,2021,150000,2025-02-05,2025,3,11,0,10,Monday,AutoSmart Durban,KZN
+S008,V008,D005,2025-03-15,350000,Audi,A3,2022,360000,2025-02-10,2025,3,11,5,15,Saturday,AutoSmart Bloemfontein,Free State
+S009,V009,D003,2025-03-18,345000,Kia,Sportage,2021,330000,2025-02-12,2025,3,12,1,18,Tuesday,AutoSmart Cape Town,Western Cape
+S010,V010,D002,2025-03-20,105000,Renault,Kwid,2020,110000,2025-02-18,2025,3,12,3,20,Thursday,AutoSmart Pretoria,Gauteng
